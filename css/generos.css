@@ -1,0 +1,13 @@
+.g{
+    background: black;
+}
+.text{
+    color: aliceblue;
+    text-align: inherit;
+}
+.footer {
+    background: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
